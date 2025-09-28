@@ -1,12 +1,15 @@
 {
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.11",
+    "@syncfusion/ej2-react-charts": "^31.1.21",
+    "@syncfusion/ej2-react-popups": "^31.1.20",
+    "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-icons": "^4.7.1",
     "react-router-dom": "^7.9.3",
     "react-scripts": "^5.0.1",
-    "tailwindcss": "^4.1.11"
+    "tailwindcss": "^4.1.13"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,5 +27,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13"
   }
 }
